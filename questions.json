@@ -1,0 +1,378 @@
+[
+  {
+    "answer": "Bialy orzel na czerwonym tle ze złotą koronę.",
+    "rus_question": "Как выглядит герб Польши?",
+    "answer_check": "bialy, orzel, złotą; zlota, koronę",
+    "rus_answer": "Белый орёл на красном фоне с золотой короной.",
+    "question": "Jak wygląda godło Polski?",
+    "id": 0
+  },
+  {
+    "answer": "Dwa poziome pasy: czerwony na dole, bialy na gorze",
+    "rus_question": "Как выглядит флаг Польши?",
+    "answer_check": "czerwony, bialy",
+    "rus_answer": "Две горизонтальных полосы: красная - снизу, белая - сверху.",
+    "question": "Jak wygląda flaga Polski?",
+    "id": 1
+  },
+  {
+    "answer": "966 Mieszko I (pierwszy polski władca) przyjmuje chrzest i poślubia księżniczkę czeską – Dobrawę. Jest to pierwszy krok w chrystianizacji pierwotnie pogańskiego narodu polskiego.",
+    "rus_question": "Дата крещения Польши?",
+    "answer_check": "966",
+    "rus_answer": "966 Мешко I (первый польский правитель) был крещен и женился на чешской принцессы - Добраве. Это первый шаг в христианизации языческого первоначально польского народа.",
+    "question": "Daty chrztu Polski?",
+    "id": 2
+  },
+  {
+    "answer": "Mazurek Dąbrowskiego – polska pieśń patriotyczna z 1797 roku, od 26 lutego 1927oficjalny hymn państwowy Rzeczypospolitej Polskiej.",
+    "rus_question": "Что такое Мазурка Домбровского?",
+    "answer_check": "hymn, rzeczypospolitej",
+    "rus_answer": "Мазурка Домбровского - польская патриотическая песня 1797 года, с 26 февраля 1927 г. официальный гимн Республики Польша.",
+    "question": "Co to jest Mazurek Dąbrowskiego?",
+    "id": 3
+  },
+  {
+    "answer": "Mazurek Dąbrowskiego\nJeszcze Polska nie zginęła,\nKiedy my żyjemy.\nCo nam obca przemoc wzięła, \nSzablą odbierzemy.\n  \nMarsz, marsz, Dąbrowski, \nZ ziemi włoskiej do Polski,\nZa twoim przewodem\nZłączym się z narodem.\n  \nPrzejdziem Wisłę, przejdziem Wartę,\nBędziem Polakami,\nDał nam przykład Bonaparte,\nJak zwyciężać mamy.\n  \nMarsz, marsz, Dąbrowski…\n  \nJak Czarniecki do Poznania\nPo szwedzkim zaborze,\nDla ojczyzny ratowania\nWrócim się przez morze.\n  \nMarsz, marsz, Dąbrowski…\n  \nJuż tam ojciec do swej Basi\nMówi zapłakany:\n\"Słuchaj jeno, pono nasi\nBiją w tarabany.\"\n  \nMarsz, marsz, Dąbrowski…",
+    "rus_question": "Гимн Польши",
+    "answer_check": "mazurek, dąbrowskiego",
+    "rus_answer": "Мазурка Домбровского\n\nЕщё Польша не погибла, \nПока мы живём.\nВсё, что взято вражьей силой,\nСаблями вернём.\n  \nМарш, марш, Домбровский\nМы от Рима к землям Польским\nПод твоей рукой свобода\nНас соединит с народом\n  \nПерейдём мы Вислу с Вартой,\nЧтоб поляками нам быть.\nПо примеру Бонапарта\nМы сумеем победить.\n  \nМарш, марш, Домбровский...\n  \nКак Чарнецкий в Познань прибыл,\nШведский плен избыв,\nМы для спасения отчизны\nИз-за моря мы\n  \nМарш, марш, Домбровский...\n  \nСкажет: «Слушай, дочь», – папаша,\nСлёз не пряча тут, – \n«Слышишь, наступают наши:\nБарабаны бьют».\n  \nМарш, марш, Домбровский...",
+    "question": "Hymn Polski",
+    "id": 4
+  },
+  {
+    "answer": "Niemiec, Moskal nie osiędzie,\nGdy jąwszy pałasza\nHasłem wszystkich zgoda będzie\nI Ojczyzna nasza\n  \nMarsz, marsz, Dąbrowski… \n  \nNa to wszystkich jedne głosy\nDosyć tej niewoli!\nMamy Racławickie kosy\nKościuszkę, Bóg pozwoli.\n  \nMarsz, marsz, Dąbrowski…",
+    "rus_question": "Какие два куплета содержат оригинальный текст гимна?",
+    "question": "Jakie dwa wiersze zawierają oryginalny tekst hymnu?",
+    "id": 5,
+    "rus_answer": "Не селиться [в краю нашем] ни немцу, ни москалю,\nКоль, под сенью палашей,\nНашим кличем станут согласие\nИ наша Отчизна\n  \nМарш, марш, Домбровский.\n  \nИ сольются наши голоса в один:\nКонец неволе!\nЕсть у нас косы рацлавицкие,\nС нами Костюшко, и Бог нам поможет\".\n  \nМарш, марш, Домбровский."
+  },
+  {
+    "answer": "Jozef  Wybicki",
+    "rus_question": "Автор польского гимна",
+    "answer_check": "jozef , wybicki",
+    "rus_answer": "Юзеф Выбицки",
+    "question": "Autor polskiego hymnu",
+    "id": 6
+  },
+  {
+    "answer": "Po 3 rozbiorze, utracie niepodległości przez Polskę, po klęsce walk o niepodległość w Polsce:  powstania kościuszkowskiego w 1794, nastąpiła emigracja żołnierzy i oficerów z Polski głownie do Francji i Włoch.\nLegiony Polskie we Włoszech  były polskim wojskiem, utworzonym zagranicą, w 1797 roku z emigrujących żołnierzy polskich.\nW porozumieniu z  Napoleonem,  General Jan Henryk Dąbrowski (twórca Legionów Polskich) podpisał 9 stycznia 1797 roku umowę z rządem Republiki Lombardzkiej o stworzeniu w Lombardii (północne Włochy) Legionów Polskich.\nWspółtwórcami Legionów byli znani uczestnicy walk o niepodległość z końca XVIII wieku:  generał Karol Kniaziewicz i polityk, poeta i żołnierz: Józef Wybicki.\nSymbolem wiary w niepodległość stała się w 1797 roku pieśń legionistów napisana przez Józefa Wybickiego, zwana też «Mazurkiem Dąbrowskiego», (melodia mazurka) która w XX wieku (w 1927 roku) została polskim hymnem narodowym",
+    "rus_question": "Кто такой Домбровский?",
+    "question": "Kto taki Dąbrowskie?",
+    "id": 7,
+    "rus_answer": "После третьего раздела Польши, потеря Польшей независимости, после поражения в борьбе за независимость Польши, восстания Костюшко в 1794 году, была эмиграция солдат и офицеров польских, главным образом в Францию и Италию.\nПольским легионом в Италии была польская армия, созданная за рубежом, эмигрировавшие в 1797 году польским солдатами.\nВ соответствии с Наполеоном, генерал Ян Генрик Домбровский (создатель польских легионов) 9 января 1797 подписал соглашение с правительством Республики Ломбардия о создании в Ломбардии (северная Италия) Польских Легионов.\nСоавторы легионы были известны борцы за независимость с конца восемнадцатого века: генерал Кароль Князевич и политик, поэт и солдат: Джозеф Выбицки.\nСимвол веры в независимость в 1797 году стала песня, написанная Джозефом Выбицким, которая также называется «Мазурка Домбровского» (мелодия мазурки), которая в ХХ веке (в 1927г.) стала польским национальным гимном."
+  },
+  {
+    "answer": "Taraban",
+    "rus_question": "Какой инструмент играет национальный гимн?",
+    "answer_check": "taraban",
+    "rus_answer": "Тарабан",
+    "question": "Jaki instrument grał hymn?",
+    "id": 8
+  },
+  {
+    "answer": "Konstytucja Polskiej 3 Maja 1791 roku.",
+    "rus_question": "Дата принятия Конституции Польши",
+    "answer_check": "3, maja;maj;v, 1791",
+    "rus_answer": "Конституция Польши 3 мая 1791 года.",
+    "question": "Data przyjęcia Konstytucji Polskiej",
+    "id": 9
+  },
+  {
+    "answer": "Wprowadzenie Stanu Wojennego przez generala Jaruzelskiego. Delegalizacja pierwszej Solidarnosci.",
+    "rus_question": "Что было 13 декабря в истории Польши?",
+    "answer_check": "delegalizacja,solidarnosci;solidarnosć",
+    "rus_answer": "Введение военного положения от генерала Ярузельского. Запрет первый солидарности",
+    "question": "Co było na 13 grudnia w historii Polski?",
+    "id": 10
+  },
+  {
+    "answer": "Módlcie się, kolorowych jaj i uświęcić jedzeni.",
+    "rus_question": "Что делаете в Великую Субботу?",
+    "question": "Co robisz w Wielką Sobotę?",
+    "id": 11,
+    "rus_answer": "Молимся, красим яйца и свентим пищу."
+  },
+  {
+    "answer": "Polskie święto obchodzone 2 maja",
+    "rus_question": "День Полонии и поляков за границей",
+    "answer_check": "2,maja;maj;v",
+    "rus_answer": "Польский праздник, отмечаемый 2 мая",
+    "question": "Dzień Polonii i Polaków za Granicą",
+    "id": 12
+  },
+  {
+    "answer": "Tatry, Karpat.",
+    "rus_question": "Какие горы пересекают Польшу?",
+    "answer_check": "tatry, karpat",
+    "rus_answer": "Татры, Карпаты.",
+    "question": "Które góry przekraczają Polska?",
+    "id": 13
+  },
+  {
+    "answer": "11 listopada / jedenasty ноября.",
+    "rus_question": "День Независимости Польши",
+    "answer_check": "11,listopada;listopad;xi",
+    "rus_answer": "11 ноября / одиннадцатого ноября.",
+    "question": "Święto Niepodległości Polski",
+    "id": 14
+  },
+  {
+    "answer": "W 1025 roku  zostaje koronowany na pierwszego króla polskiego, dzięki wsparciu Ottona 3, cesarza rzymskiego narodu niemieckiego. Dowodem dobrych stosunków między obu władcami był zorganizowany w 1000 roku - zjazd gnieźnieński.",
+    "rus_question": "Кто был первым польским королем?",
+    "answer_check": "bolesław, chrobry",
+    "rus_answer": "В 1025 году Болеслава Храброго коронуется первым королём польским, при поддержке Оттона 3, император Священной Римской империи немецкой нации. Доказательством добрых отношений между двумя правителями был организован в 1000 году - гнёзненский съезд.",
+    "question": "Kto był pierwszym królem Polski?",
+    "id": 15
+  },
+  {
+    "answer": "W 1138 roku, przed swą śmiercią, wydał testament regulujący zasady następstwa tronu. Był on kompromisem, który godził jedność państwa z prawem każdego z książęcych synów do dziedziczenia ziemi. Princepsem (czyli księciem zwierzchnim, lub seniorem całej Polski) miał być każdorazowo najstarszy członek dynastii Piastów. Podstawę jego władzy stanowiła dzielnica senioralna obejmująca prawdopodobnie ziemie: krakowską, sieradzką, łęczycką, wschodnią Wielkopolskę (z Kaliszem i Gnieznem), Kujawy (z Kruszwicą) oraz kontrolę nad Pomorzem. Godność pierwszego princepsa przypadła Władysławowi, który otrzymał także (jako własną dzielnicę dziedziczną) Śląsk wraz z ziemią lubuską. Bolesław (Kędzierzawy) objął Mazowsze z częścią Kujaw, Mieszko III (Stary) - część Wielkopolski z Poznaniem, zaś Henryk - ziemię sandomierską (która najprawdopodobniej wydzielona została dla niego dopiero po śmierci Krzywoustego, nie zaś od razu w testamencie). Najmłodszy z braci, Kazimierz, pozostał bez własnej dzielnicy.)",
+    "rus_question": "Статут Кривоустого – что в нём было?",
+    "question": "Testament Krzywoustego - co w nim było?",
+    "id": 16,
+    "rus_answer": "Статут Кривоустого - это политическое завещание польского князя Болеслава Кривоустого, в котором он установил порядок раздела польских земель между своими сыновьями и старшинство между ними."
+  },
+  {
+    "answer": "Bitwa pod Płowcami – bitwa rozegrana 27 września 1331 roku pomiędzy wojskami Władysława Łokietka a oddziałami zakonu krzyżackiego pod wodzą komtura krajowego chełmińskiego Otto von Lutterberga, marszałka zakonu Dietricha von Altenburga, wielkiego komtura Otto von Bonsdorfa, w okolicach wsi Płowce na Kujawach. Wynik bitwy można uznać pod względem strategicznym za nierozstrzygnięty, lecz w całej batalii Łokietek odniósł sukces – moralny i militarny. Krzyżacy zaczęli liczyć się z Polakami na ich terytorium.",
+    "rus_question": "Кто выиграл битву под Пловцами?",
+    "question": "Kto wygrał bitwę pod Płowcami?",
+    "id": 17,
+    "rus_answer": "Битва под Пловцами - битва произошла 27 сентября 1331 года, между армиями Владиславом Локетка и тевтонских рыцарей во главе с командующим национальной Отто фон Лютерберга, маршал ордена Дитрих фон Альтенбург, великий полководец Отто фон Бонсдорфа, недалеко от деревни Пловце на Куявах. Сражение можно рассматривать с точки зрения стратегии выжидания, но и в целом успех боя Локетка - моральной и военной. Крестоносцы начали считаться с поляками на их территории."
+  },
+  {
+    "answer": "Przyszło mu władać krajem skłóconym, wstrząsanym walkami frakcji magnackich, osłabionym terytorialnie (przejściowa okupacja Podola przez Turków  i - choć wciąż odnosił zwycięstwa militarne (Wiedeń 1683) - nie podołał zadaniu uporządkowania spraw państwowych. Także w dziedzinie dyplomacji nie odniósł sukcesów (strata połowy Ukrainy na rzecz Rosji, chwiejne sojusze z Francją i Austrią). Wraz ze śmiercią Jana III Sobieskiego (1696) zakończył się okres sarmacki (szlachecki) Rzeczypospolitej - odtąd decydującą rolę w państwie odgrywały koterie magnackie. W przeszłość odeszły także triumfy oręża polskiego.\nOdniósł zwycięstwa nad Kozakami i Tatarami, a zwycięstwo na Turkami pod Chocimiem doprowadziło go na tron Polski. Doprowadził do podpisania traktatu przyjaźni z Austrią i wsławił się w odsieczy wiedeńskiej, rozgramiając wojska tureckie oblegające Wiedeń w 1683 roku. W 1686 zawarł z Rosją pokój wieczysty. Oprócz świetnego przywódcy, był także mecenasem kultury i sztuki. Autor Listów do Marysieńki, które powstawały w czasie rozstań Sobieskiego z ukochaną żoną.",
+    "rus_question": "Король Ян III Собеский?",
+    "question": "Król Jan III Sobieski?",
+    "id": 18,
+    "rus_answer": "Ян III Собеский — крупный польский полководец, король польский и великий князь литовский."
+  },
+  {
+    "answer": "Potop szwedzki – szwedzki najazd na Polskę w 1655 roku w czasie II wojny północnej (1655–1660). Wojna ta prowadzona była nie tylko przez Szwecję, w czasie wojny zmieniały się zarówno sojusze, jak i siły obu stron. Była ona kontynuacją wcześniejszych wojen prowadzonych przez Rzeczpospolitą, miała także swoje korzenie w sporze o tron Szwecji zapoczątkowanym jeszcze przez króla Zygmunta III Wazę. Potop szwedzki pokazał słabość Rzeczypospolitej, gdyż szwedzkie sukcesy możliwe były m.in. dzięki kolaboracji samych Polaków, którymi kierowały różne motywy. Choć ostatecznie najeźdźcy zostali wyparci z kraju, to koszt zawartych układów był wysoki, a zniszczenia materialne i kulturowe są widoczne do dziś. Formalnie zakończył go pokój w Oliwie zawarty w 1660 roku.",
+    "rus_question": "Когда имело место быть Шведскому Потопу?",
+    "answer_check": "1655",
+    "rus_answer": "Шведский потоп — вторжение шведов в Речь Посполитую в 1655 — 1660 годах, причинившее этому государству огромный урон. Обусловило заключение Виленского перемирия вРусско-польской войне 1654—1667 годах и совместную борьбу враждующих сторон против грозящей гегемонии шведов. Формально закончился после перемирия в Оливе.",
+    "question": "Kiedy miał miejsce Potop Szwedzki?",
+    "id": 19
+  },
+  {
+    "answer": "Trzy rozbiory Polski w 1772, 1793 i 1795.",
+    "rus_question": "Когда имело место быть I, II, III разделам Польши?",
+    "answer_check": "1772, 1793, 1795",
+    "rus_answer": "Три раздела Польши в 1772, 1793 и 1795",
+    "question": "Kiedy miał miejsce I, II, III rozbiór Polski?",
+    "id": 20
+  },
+  {
+    "answer": "Pierwszy rozbiór Polski – nastąpił w roku 1772, pierwszy z trzech rozbiorów Polski, do których doszło pod koniec XVIII wieku. Dokonany drogą cesji terytorium I Rzeczypospolitej przez Prusy, Austrię  i Rosję. Idea rozbioru jednego państwa, w celu zaspokojenia roszczeń i interesów innych nie była czymś nowym. Podobne plany rodziły się wobec Austrii podczas wojny o sukcesję austriacką, Prus w czasie trwania wojny siedmioletniej czy też Turcji w trakcie V wojny rosyjsko-tureckiej. Różnica polegała na tym, że Rzeczpospolita, była jedynym państwem, które nie było w stanie odeprzeć żadnego konfliktu zbrojnego z innym państwem oraz, iż była całkowicie bezbronna i nie mogła w przeciwieństwie do wyżej wymienionych bronić własnych interesów. Koncepcja rozbioru państwa polsko-litewskiego także nie była nowa. Pojawiła się już w XVII wieku (Traktat w Radnot) i była rozpatrywana także w drugiej połowie wieku XVIII. W czasie przedłużającej się wojny rosyjsko-tureckiej, kiedy okazało się jasnym, że rozbiór Wysokiej Porty jest niemożliwy, a dalsza wojna groziła przerodzeniem się w konflikt ogólnoeuropejski, propozycje rozładowania napięcia politycznego kosztem ziem polskich wysunął ponownie dwór paryski i berliński.",
+    "rus_question": "Расскажите о первом разделе Польши",
+    "answer_check": "rosję,1772,prusy,austrię",
+    "rus_answer": "Первый раздел Польско - пришёл в 1772 году, первый из трех разделов Польши, который произошёл в конце восемнадцатого века. Уступка территории сделанные Первой Республики Пруссией, Австрией и Россией. Идея раздела страны в целях удовлетворения потребностей и интересов других не было чем-то новым. Аналогичные планы родились в Австрии во время войны за австрийское наследство Пруссии во время Семилетней войны или в Турции в ходе V-ой русско-турецкой войны. Разница в том, что республика была единственной страной, которая не смогла дать отпор любой вооруженный конфликт с другой страной, и это была совершенно беспомощна и не могла, в отличие от вышеупомянутых отстаивать свои интересы.Концепция раздела Польско-Литовского государства была также не нова. Появившиеся в семнадцатом веке (договора в Раднот ) и считалась второй половине восемнадцатого века. Во время длительной русско-турецкой войны, когда стало ясно, что раздел Высокой Порты невозможен, и дальнейшие угрозы перерасти в войну в общеевропейском конфликте, политическое напряжение разряда предложения польских земель за счет судебного отступления Парижа и Берлина.",
+    "question": "Opowiedz o pierwszym rozbiorze Polski",
+    "id": 21
+  },
+  {
+    "answer": "II rozbiór Polski – drugi z trzech rozbiorów Polski, do których doszło pod koniec XVIII wieku.  Wykorzystując kapitulację Stanisława Augusta Poniatowskiego wobec Rosji i przejęcia rządów w kraju przez targowiczan – 25 października 1792 król Prus Fryderyk Wilhelm II zażądał wcielenia Wielkopolski do Królestwa Prus. Miała być ona ekwiwalentem za niepowodzenia armii pruskich w wojnie przeciwko rewolucyjnej Francji, prowadzonej w koalicji absolutystycznych monarchii europejskich. Żądanie to warunkował groźbą wycofania się Prus z koalicji antyfrancuskiej, ale wnet przekształciło się ono w propozycję II rozbioru części ziem Rzeczypospolitej pomiędzy Rosję i Prusy. 23 stycznia 1793 doszło do podpisania traktatu podziałowego między Katarzyną II a Fryderykiem Wilhelmem II, po podpisaniu wojska pruskie weszły do Wielkopolski, a rosyjskie do wschodniej Polski. Konfederacja targowicka – konfederacja generalna koronna zawiązana wiosną 1792 w Targowicy przez przywódców magnackiego obozu republikanów w celu przywrócenia starego ustroju Rzeczypospolitej, pod hasłami obrony zagrożonej wolności przeciwko reformom konstytucji 3 maja, wprowadzającym monarchię konstytucyjną. Jej zawiązanie posłużyło Rosji jako pretekst do interwencji zbrojnej w Rzeczypospolitej.",
+    "rus_question": "Расскажите о втором разделе Польши",
+    "answer_check": "1793",
+    "rus_answer": "Второй раздел польско - второй из трех разделов Польши, которая произошла в конце восемнадцатого века. Использование сдаче Станислава Августа Понятовского в Россию и взять на себя правление страной Тарговицкой - 25 октября 1792 король Пруссии Фридрих Вильгельм II потребовал включения в состав Королевства Большой Пруссии. Это должно было быть эквивалентно провала прусской армией в войне против революционной Франции, во главе коалиции европейских монархий. Просьба с угрозой выйти из коалиции Пруссии, анти-французски, но вскоре он превратился в предложение по второй раздел территории Польши между Россией и Пруссией. 23 января 1793 был подписан договор между шагом Екатерины II и Фридриха-Вильгельма II, после подписания прусская армия вошла в Большом и Россией на востоке польском языке. Конфедерация Тарговицкой - Всеобщая конфедерация короной образуются весной 1792 года в Тарговицкой республиканском лагере магната лидеров восстановить старый режим Республики, под флагом защиты свободы против реформ угрожает Конституции 3 мая, введения конституционной монархии. Формирование России послужило поводом для военного вмешательства в республике.",
+    "question": "Opowiedz o drugim rozbiorze Polski",
+    "id": 22
+  },
+  {
+    "answer": "III rozbiór Polski – ostatni z trzech rozbiorów Polski, do których doszło pod koniec XVIII. Już w czasie trwania insurekcji kościuszkowskiej 11 lipca 1794 roku poseł pruski w Petersburgu Leopold Heinrich von Goltz pisał w swej depeszy, że cała Rosja domaga się rozbioru Polski i wymazania imienia polskiego.  Niecały rok po upadku insurekcji, 24 października 1795, monarchowie Rosji, Prus i Austrii (a właściwie Imperium Habsburgów) uzgodnili wzajemnie traktat, zgodnie z którym przeprowadzili ostatni, pełny, III rozbiór Rzeczypospolitej. Trzeci rozbiór był rezultatem m.in. kryzysu wewnętrznego i ekspansywnych działań mocarstw ościennych, bezpośrednio jednak wynikiem nieudanego powstania kościuszkowskiego i przegranej wojny Polski z Rosją i Prusami. Król Stanisław August Poniatowski opuścił Warszawę i w asyście dragonów rosyjskich udał się do Grodna, pod opiekę i nadzór namiestnika rosyjskiego, po czym abdykował 25 listopada na rzecz Rosji. To stało się powodem, iż Rosja, de facto, stała się depozytariuszką korony polskiej, i bez jej zgody Napoleon nie chciał i nie mógł przywrócić później Królestwa Polskiego. (Uczynił to dopiero powołując w 1812 Konfederację Generalną Królestwa Polskiego i wypowiadając wojnę Rosji). Stanisław August Poniatowski zmarł w Petersburgu 12 lutego 1798.",
+    "rus_question": "Расскажите о третьем разделе Польши",
+    "answer_check": "1795",
+    "rus_answer": "Третий раздел Польши - последний из трех разделов Польши, который произошёл в конце восемнадцатого века. Уже во время восстания Костюшко 11 июля 1794 года прусским посланником в Санкт-Петербурге Леопольд Генрих фон Гольц пишет в своем сообщении, что вся Россия требует раздела Польши и стирания имени польского. Менее чем через год после краха восстания, 24 октября 1795 г. монархи России, Пруссии и Австрии (и на самом деле империи Габсбургов) взаимно согласованных в договоре, в соответствии с которым последняя проведена полная третьего раздела Польши. Третий раздел был результат такого Внутренний кризис и экспансивный действия соседних полномочия непосредственно, однако, в результате неудачного восстания и поражения Костюшко польская война с Россией и Пруссией. Король Станислав Август Понятовский оставил Варшаву и в сопровождении русских драгун отправился в Гродно, под опеку и надзор за русским губернатором затем он отрекся от престола 25 ноября в пользу России. Это стало причиной того, что Россия, по сути, стал депозитарием польской короны, и без ее согласия, Наполеон не хотел и не мог вернуться после польского королевства. (Он сделал это только в 1812 году, ссылаясь на Всеобщей конфедерации Королевства Польского и объявить войну России). Станислав Август Понятовский умер в Петербурге 12 февраля 1798 года.",
+    "question": "Opowiedz o trzecim rozbiorze Polski",
+    "id": 23
+  },
+  {
+    "answer": "W I rozbiorze: Prusy, Austria i Rosja\nW II -  Rosja i Prusy\nW III -  Prusy Austria i Rosja\nRP 1 – utworzona w 1569r.,  zlikwidowana w 1795r., \nRP2 - utworzona w 1918r.,  zlikwidowana  w 1939r.,\nRP3 - utworzona w 1989r.",
+    "rus_question": "Какие страны участвовали в разделе польского?",
+    "answer_check": "austria,prusy,rosja",
+    "rus_answer": "В первый раздел: Пруссия, Австрия и Россия\nВо второй - Россия и Пруссия\nВ третьих - Пруссия, Австрия и Россия\nRP 1 - создана в 1569 г. , ликвидирована в 1795 г.,\nRP2 - создана в 1918г, ликвидирована в 1939 г.\nRP3 - создана в 1989г.",
+    "question": "Które państwa uczestniczyły w rozbiorze Polski?",
+    "id": 24
+  },
+  {
+    "answer": "Stanisław August Poniatowski  (1732-1798). Wywodził się z rodu magnackiego, którego znaczenie było świeżej daty. Królem został w 1764 r. z inicjatywy carycy rosyjskiej Katarzyny II. Był człowiekiem oświecenia - wykształconym i wrażliwym. Uczynił wiele dla podniesienia poziomu elit Rzeczypospolitej i unowocześnienia państwa. Pod względem politycznym, i z punktu widzenia pozycji międzynarodowej, państwo polsko-litewskie było już w stanie rozkładu i działalność oświeceniowa króla i jego współpracowników służyła raczej przyszłości aniżeli teraźniejszości. Był król wybitnym mecenasem sztuku i kultury. Nadzieje na utrzymanie państwa pokładał w łaskawości Katarzyny II. Wielkim jego wzlotem był twórczy udział w ustanowieniu Konstytucji 3 Maja w 1791 r., akcie odrodzenia narodowego. Jednakże wobec sprzeciwu Katarzyny II łatwo skapitulował i zgodził się na abdykację. Abdykacja ta oznaczała koniec państwowości Rzeczypospolitej Obojga Narodów.",
+    "rus_question": "Последний король Польши",
+    "answer_check": "poniatowski",
+    "rus_answer": "Станислав Август Понятовский (1732-1798). Он происходил из аристократической семьи, значение которой была недавней датой. Король был в 1764 году по инициативе русской императрицы Екатерины II. Он был человеком эпохи Просвещения - образованный и чувствительный. Он много сделал для повышения уровня элиты республики и модернизации государства. Политически, и с точки зрения международного положения, польско-литовское государство уже в состоянии распада и деятельности Просвещения короля и его коллеги служили, а не будущее в настоящем. Он был покровителем царя искусства и культуры. Надежды поддерживать состояние благодати разместил Екатерины II.Восхождение было большое участие в создании творческого Конституции 3 мая в 1791 году, акт национального возрождения. Однако, из-за оппозиции Екатерины II легко сдался и согласился отречься от престола. Это отречение положило конец польско-литовского государства.",
+    "question": "Ostatni król Polski",
+    "id": 25
+  },
+  {
+    "answer": "Targowica (ukr. Торговиця, Torhowycja) - miejscowość na Ukrainie, dawne miasteczko, obecnie wieś niedaleko Humania, w obwodzie kirowohradzkim, w rejonie Nowoarchanhelskim.\nW końcu XVIII wieku należała do Stanisława Szczęsnego Potockiego. 14 maja 1792 miejsce ogłoszenia konfederacji targowickiej, zmierzającej do obalenia konstytucji 3 maja przy pomocy interwencji armii rosyjskiej.\nKonfederacja targowicka – konfederacja generalna koronna zawiązana wiosną 1792 w Targowicy przez przywódców magnackiego obozu republikanów w celu przywrócenia starego ustroju Rzeczypospolitej, pod hasłami obrony zagrożonej wolności przeciwko reformom konstytucji 3 maja, wprowadzającym monarchię konstytucyjną. Jej zawiązanie posłużyło Rosji jako pretekst do interwencji zbrojnej w Rzeczypospolitej.",
+    "rus_question": "С чем ассоциируется Тарговица?",
+    "question": "Z czym kojarzy się Targowica?",
+    "id": 26,
+    "rus_answer": "Тарговица (украинский Торговиця) - город на Украине, в старом городе, теперь село под Уманью,в кировоградской области, в Новоаршанском районе.\nВ конце восемнадцатого века принадлежали Станиславу Потоцкому Щесны. 14 мая 1792 Объявление о месте конфедерации Тарговицкой, с целью свержения Конституции 3 мая с вмешательством русской армии.\nКонфедерация Тарговицкой - Всеобщая конфедерация короной образуются весной 1792 года в Тарговицкой республиканском лагере магната лидеров восстановить старый режим Республики, под флагом защиты свободы против реформ угрожает Конституции 3 мая, введения конституционной монархии. Формирование России послужило поводом для военного вмешательства в республике."
+  },
+  {
+    "answer": "Коротко:\nTadeusz Andrzej Bonawentura Kościuszko herbu Roch III (ur. 4 lutego 1746 w Mereczowszczyźnie, zm. 15 października 1817 w Solurze) – generał polski i amerykański, inżynier fortyfikator, brał udział w wojnie o niepodległość USA, wzniecił antyrosyjskie powstanie w Rzeczypospolitej, Najwyższy Naczelnik Siły Zbrojnej Narodowej w insurekcji 1794.",
+    "rus_question": "Кем был Тадеуш Костюшко?",
+    "question": "Kim był Tadeusz Kościuszko?",
+    "id": 27,
+    "rus_answer": "Тадеуш Анджей Костюшко Бонавентура хербу Рох III (родился 4 февраля 1746 в Mereczowszczyźnie, д. 15 октября 1817 в Solothurn.) - Польский и американский генерал, инженер укреплений, принимал участие в войне за независимость Соединенных Штатов, вызвали анти-русского восстания в республике, Верховный главнокомандующий силами Национальные вооруженные восстания 1794 года.\nПодробно:\n W 1765 roku z inicjatywy Stanisława Augusta Poniatowskiego powstała Szkoła Rycerska. Miała ona przygotować kadrę oficerów, ludzi światłych, postępowych i dobrych obywateli. Dzięki wsparciu Czartoryskich Kościuszko wstąpił 18 grudnia 1765 do Korpusu Kadetów Szkoły Rycerskiej, gdzie wyróżniał się spośród innych. Na wiosnę 1777 roku Kościuszko został wysłany na północ nad granicę kanadyjską pod wodzą generała Horatio Gatesa. Przez wiele miesięcy Kościuszko ufortyfikował różne obozy wojskowe Armii Kontynentalnej (m.in Fort Ticonderoga). Rozgłos przyniósł mu wkład jego fortyfikacji do amerykańskiego zwycięstwa w bitwie pod Saratogą. Wyrazem uznania dla jego inżynierskich umiejętności było powierzenie mu budowy silnej twierdzy West Point nad rzeką Hudson. Decyzję taką poparł naczelny wódz armii amerykańskiej Jerzy Waszyngton.\nKościuszko na własną prośbę został skierowany do armii południowej. Tu także jego umiejętności inżynierskie pozwoliły odnosić Amerykanom zwycięstwa.\nW uznaniu zasług, uchwałą Kongresu Tadeusz Kościuszko awansowany został 13 października 1783 r. na generała brygady armii amerykańskiej. W lipcu 1784 r. pożegnawszy się z przyjaciółmi, wrócił do Polski (12 sierpnia 1784). Sytuacja w kraju była bardzo zła. Od kilku już miesięcy trwały w Polsce przygotowania do spodziewanej interwencji. Kościuszko brał w nich aktywny udział, dokonując inspekcji i manewrów podległych sobie wojsk, obejmując przy tym dowództwo dywizji pod nieobecność księcia Józefa Poniatowskiego. Na początku maja 1792 r. dokonana została reorganizacja wojsk polskich. Wodzem armii koronnej, liczącej około 17 tysięcy żołnierzy, król mianował księcia Józefa Poniatowskiego. Dowódcą jednej z trzech dywizji, tworzących armię koronną, został Tadeusz Kościuszko. 18 maja wojska rosyjskie (w sile około 100 tysięcy żołnierzy) wkroczyły na terytorium Rzeczypospolitej, rozpoczęła się wojna polsko-rosyjska 1792. Kościuszko odznaczył się w bitwach pod Włodzimierzem (7 lipca), pod Dubienką (18 lipca 1792) i Zieleńcami, za co otrzymał order Virtuti Militari. 24 marca 1794 na rynku krakowskim złożył narodowi uroczystą przysięgę i objął formalnie przywództwo insurekcji jako Najwyższy Naczelnik Siły Zbrojnej Narodowej."
+  },
+  {
+    "answer": "Przyczyny powstania:\n- wydarzenia piętnastolecia istnienia Królestwa Polskiego - zawiedzione nadzieje na pełną niepodległość; nie wywiązanie się Aleksandra I z obietnic powiększenia Królestwa o dawne ziemie polskie; nie przestrzeganie konstytucji i nie tolerowanie liberalnej opozycji (Kaliszanów)\nPrzebieg:\n- noc listopadowa - 29 listopada 1830 r. wybuchło powstanie, \n- cywile zaatakowali Belweder, jednak nie osiągnęli celu, ponieważ wielki książę Konstanty ocalał i uciekł z Warszawy",
+    "rus_question": "Когда вспыхнуло ноябрьское восстание?",
+    "answer_check": "29,listopada;xi,1830",
+    "rus_answer": "Причины повстания:\n- События Королевства Польского пятнадцать лет существования - разочарование для полной независимости, не выполнять обещания Александра I Королевства бывшего увеличить польских земель, несоблюдение Конституции и не терпимо либеральной оппозиции (Калишанов)\nПробег:\n- Ночью ноября - 29 ноября 1830 года вспыхнуло восстание,\n- Белвендер нападали на гражданских лиц, но не должно быть, потому что великий князь Константин выжил и бежал из Варшавы",
+    "question": "Kiedy wybuchło powstanie listopadowe?",
+    "id": 28
+  },
+  {
+    "answer": "Powstanie styczniowe (1863-1864) - narodowy zryw powstańczy przeciwko zaborcy, Rosji. Powstanie wybuchło 22 stycznia 1863 r., trwało do późnej jesieni 1864 roku.\nW latach 1861-1862 w Królestwie Polskim społeczność polska coraz bardziej domagała się reform agrarnych, demokratyzacji władzy i niezawisłości państwa od Rosji. Planowane przez czerwonych na wiosnę powstanie zostało więc znacznie przyspieszone, nie było jeszcze należycie przygotowane, powstańcom brakowało broni i amunicji, kierownictwo powstania było niejednolite i skłócone. Po początkowych sukcesach organizacyjnych, także wojskowych, powstańcy zaczęli jednak ulegać przeważającym siłom rosyjskim. Traugutt starał się wciągnąć do walk ludność chłopską, głosząc hasło działania „z ludem i przez lud”. Powstanie miało charakter wojny partyzanckiej, stoczono ok. 1200 rozproszonych potyczek, ale ani jednej większej bitwy, zginęło ok. 30 tys. uczestników. Nie nadeszła żadna pomoc z zagranicy, na jaką liczono, zwłaszcza z Francji. Powstanie objęło całe Królestwo, znaczną część Litwy oraz Wołyń i trwało z większą intensywnością ponad rok, a rozproszone oddziały partyzanckie walczyły jeszcze do jesieni.",
+    "rus_question": "Когда было январское восстание?",
+    "answer_check": "22,stycznia;i,1863",
+    "rus_answer": "Январского восстания (1863-1864) - национального восстания против захватчиков России. Восстание вспыхнуло 22 января 1863 года, продолжалось до поздней осени 1864 года.\nВ годы 1861-1862 Королевства Польского польской общины все более востребованными аграрной реформы, демократизации власти и независимости страны от России. Планируется красной весной восстание значительно ускорилось, ещё не было должным образом подготовлено, повстанцам не хватает оружия и боеприпасов, руководство восстания было противоречивым и воюющим. После первых организованных успехов, а так же военных повстанцы начали проходить преимущественно русскими войсками. Траугут пытался вытащить в население крестьян, проповедуя лозунг \"с народом и по народ\". Восстание имело партизанский характер войны, были распределены около 1200 сражений, погибли около 30 тысяч человек. участников. Не получили никакой помощи из-за рубежа, которые рассчитывали, особенно из Франции.  Восстание охватывает все области, значительную часть Литвы и Волынь, и длилось более года, а  партизанские отряды сражались еще до осени.",
+    "question": "Kiedy wybuchło styczniowe?",
+    "id": 29
+  },
+  {
+    "answer": "Władysław Warneńczyk (1424-1444). Król Polski od 1434 roku, król węgierski od 1440 roku, syn Władysława Jagiełły i Zofii Holszańskiej. W czasie jego panowania faktyczne rządy w Polsce sprawował kardynał Zbigniew Oleśnicki. Węgry, już wówczas poważnie zagrożone przez ekspansję turecką, liczyły, że powiązane z rodem Jagiellonów będą dla nich ochroną. Młody i zapalczywy Władysław łatwo uległ namowom legata papieskiego i wyruszył przeciw Turkom z niedostatecznie przygotowanymi wojskami. Do decydującej bitwy doszło pod Warną 10 listopada 1444 roku Bitwa zakończyła się klęską dowodzonej przez Władysława koalicji antytureckiej, a sam król zginął na polu walki. Władysław należy do najbardziej znanych władców średniowiecznej Polski. Klęska warneńska przyczyniła się do powstania legendy o dwudziestoletnim królu, który poległ w starciu dwu różnych cywilizacji.",
+    "rus_question": "Где и когда умер король Владислав Варненчык?",
+    "answer_check": "10,listopada;xi,1444",
+    "rus_answer": "Владислав III Варненьчик — король польский (покинул Польшу 22 апреля 1440, страной управляли регенты), король Венгрии с 17 июля 1440 года.",
+    "question": "Gdzie i kiedy zginał król Władysław Warneńczyk?",
+    "id": 30
+  },
+  {
+    "answer": "Władysław Jagiełło II (1348-1434). Od 1377 r. wielki książę litewski, od 1396 król Polski. Założyciel dynastii Jagiellonów. Wraz z jego wstąpieniem na tron rozpoczęła się nowa epoka w historii Polski, państwa środkowoeuropejskiego, które było związane ściśle z cywilizacją zachodnią, łacińską. Władysław Jagiełło wiązał Polskę z Litwą panującą wówczas nad ogromnymi obszarami Wschodu, od Bałtyku po Morze Czarne, gdzie pogaństwo etnicznej Litwy krzyżowało się z prawosławiem podbitych przez nią ziem ruskich. W ten sposób zostały osiągnięte doraźne cele polityczne - ekspansja Zakonu krzyżackiego została powstrzymana przez świetne zwycięstwo sił polsko-litewsko-ruskich pod Grunwaldem 15 lipca 1410 r. Jednakże Polska stanęła wobec wielkich wyzwań Wschodu, którym nie zawsze zdolna była sprostać. Tymczasem król Władysław doprowadził w 1413 r. do Unii w Horodle, poszerzającej związki Polski i Litwy, oraz wydał dalsze przywileje dla szlachty, aby zapewnić jej poparcie dla dziedziczenia tronu przez synów.",
+    "rus_question": "Кто был первым королем из династии Ягеллонов?",
+    "answer_check": "władysław,jagiełło",
+    "rus_answer": "Ягайло Владислав II  — князь витебский, великий князь литовский (1377—1381, 1382—1392) и король польский (1386—1434). Родоначальник династии Ягеллонов.",
+    "question": "Kto był pierwszym królem z dynastii Jagiellonów?",
+    "id": 31
+  },
+  {
+    "answer": "Zygmunt August (1520-1572) Syn Zygmunta Starego i Bony Sforzy, koronowany za życia ojca w 1529 roku, od tego też roku wielki książę litewski. Rządy objął w 1548 roku Popierał reformatorski ogólnoszlachecki ruch egzekucji praw, w wyniku czego uregulowano sytuację dóbr Rzeczypospolitej (królewszczyzn), utworzono stałe wojsko. Zwolennik tolerancji, nie dopuszczał do prześladowań i wojen religijnych, wołał na sejmie \"Nie jestem królem waszych sumień\". Nie mając potomstwa zdolnego do dziedziczenia tronu dążył do utrwalenia związków Polski z Litwą na podstawie unii realnej i cel ten z wielkimi trudami zrealizował na trzy lata przed śmiercią - Unia Lubelska 1569 roku. Jego miłość do Barbary Radziwiłłówny doprowadziła do małżeństwa i koronacji, co było sprzeczne z interesami dynastii i racjami stanu. Król przykładał wielką wagę do spraw morskich i budowy floty. Przyłączył do państwa polsko-litewskiego Inflanty. Był człowiekiem odrodzenia, wszechstronnie wykształconym, protektorem sztuk i nauk, które pod jego panowaniem rozkwitły.",
+    "rus_question": "Кто был последним из династии Ягеллонов?",
+    "answer_check": "zygmunt,august",
+    "rus_answer": "Сигизмунд II Август  — великий князь литовский и король польский. Он правил совместно со своим отцом Сигизмундом I. В его правление, в 1569 году, была принята Люблинская уния, по которой Великое княжество Литовское и Королевство Польское объединялись в конфедеративное государство — Речь Посполитую, правителем которой с титулом короля польского и великого князя литовского и стал Сигизмунд Август. Был последним представителем династии Ягеллонов на троне Великого княжества Литовского и Королевства Польского.",
+    "question": "Kto był ostatnim z dynastii Jagiellonów?",
+    "id": 32
+  },
+  {
+    "answer": "Warszawianka 1831 roku\nOto dziś dzień krwi i chwały,\nOby dniem wskrzeszenia był!\nW tęczę Franków Orzeł Biały\nPatrząc, lot swój w niebo wzbił.\nSłońcem lipca podniecany\nWoła do nas z górnych stron:\n\"Powstań, Polsko, skrusz kajdany,\nDzis twój tryumf albo zgon!\"\nHej, kto Polak, na bagnety!\nŻyj, swobodo, Polsko, żyj!\nTakim hasłem cnej podniety\nTrąbo nasza wrogom grzmij!\nTrąbo nasza wrogom grzmij!\nNa koń, woła Kozak mściwy,\nKarać bunty polskich rot,\nBez Bałkanów są ich niwy,\nWszystko jeden zgniecie lot.\nStój! Za Bałkan pierś ta stanie,\nCar wasz marzy płonny łup,\nZ wrogów naszych nie zostanie,\nNa tej ziemi, chyba trup.\nHej, kto Polak, na bagnety!\nDroga Polska, dzieci Twoje,\nDziś szczęśliwszych doszły chwil,\nOd tych sławnych, gdy ich boje,\nWieńczył Kremlin, Tybr i Nil.\nLat dwadzieścia nasze męże,\nLos po obcych ziemiach siał,\nDziś, o Matko, kto polęże,\nNa Twem łonie będzie spał.\nHej, kto Polak, na bagnety!\nWstań Kościuszko! Ugodź serca,\nCo z litością mamić śmią,\nZnałże litość ów morderca,\nKtóry Pragę zalał krwią?\nNiechaj krew tę krwią dziś spłaci,\nNiech nią zrosi grunt, zły gość,\nLaur męczeński naszej braci\nBujniej będzie po niej rość.\nHej, kto Polak, na bagnety!\nTocz Polaku bój zacięty,\nUlec musi dumny car,\nPokaż jemu pierścień święty,\nNieulękłych Polek dar,\nNiech to godło ślubów drogich,\nWrogom naszym wróży grób,\nNiech krwią zlane w bojach srogich,\nNasz z wolnością świadczy ślub.\nHej, kto Polak, na bagnety!\nO Francuzi! Czyż bez ceny\nRany nasze dla was są?\nSpod Marengo, Wagram, Jeny,\nDrezna, Lipska, Waterloo\nŚwiat was zdradzał, my dotrwali,\nŚmierć czy tryumf, my gdzie wy!\nBracia, my wam krew dawali.\nDziś wy dla nas nic – prócz łzy.\nHej, kto Polak, na bagnety!\nWy przynajmniej coście legli,\nW obcych krajach za kraj swój,\nBracia nasi z grobów zbiegli,\nBłogosławcie bratni bój.\nLub zwyciężym – lub gotowi,\nZ trupów naszych tamę wznieść,\nBy krok spóźnić olbrzymowi,\nCo chce światu pęta nieść.\nHej, kto Polak, na bagnety!\nGrzmijcie bębny, ryczcie działa,\nDalej! dzieci w gęsty szyk,\nWiedzie hufce wolność, chwała,\nTryumf błyska w ostrzu pik.\nLeć nasz orle, w górnym pędzie,\nSławie, Polsce, światu służ!\nKto przeżyje wolnym będzie,\nKto umiera, wolny już!\nHej, kto Polak, na bagnety!\nŻyj, swobodo, Polsko, żyj!\nTakim hasłem cnej podniety\nTrąbo nasza wrogom grzmij!\nTrąbo nasza wrogom grzmij!",
+    "rus_question": "Текст песни Варшавянка 1831 года",
+    "question": "Tekst „Warszawianka 1831 roku\"",
+    "id": 33,
+    "rus_answer": "Варшавянка 1831 года\nСегодня день крови и славы,\nПусть бы он был днём воскрешения!\nОрёл Белый, на радугу франков\nГлядя, взвил в небо свой полёт.\nСолнцем июля вдохновлённый,\nЗовёт нас из горних стран:\n«Восстань, Польша, круши оковы,\nНынче твой триумф или смерть».\nЭй! кто поляк, в штыки!\nЖиви, свобода, Польша, живи!\nЭтим девизом побуждений благородных\nТруба наша, врагам греми!\nТруба наша, врагам греми!\n\"На конь!\" — зовёт казак мстительный, -\nПокараем взбунтовавшийся народ,\nЛишены Балкан их нивы,\nМигом раздавим ляхов род\".\nСтой! Вместо Балкан встанет эта грудь:\nЦарь ваш тщетно грезит о добыче,\nОт врагов наших ничего не останется\nНа этой земле, кроме трупов.\nЭй! кто поляк, в штыки!\nДорогая Польша! дети твои\nСегодня достигли мгновений счастливей\nЧем те, когда их славные бои\nВенчали Кремль, Тибр и Нил.\nДвадцать лет наших героев\nРок сеял по чужим землям,\nНынче, о Мать, кто поляжет,\nБудет спать на твоём лоне.\nЭй, кто поляк, в штыки!\nВстань, Костюшко, порази сердца,\nКоторые милосердием обманывать смеют.\nВедал ли о милосердии тот убийца,\nКоторый Прагу залил кровью?\nПусть за кровь ту ныне платит кровью,\nПусть злой гость оросит ею землю.\nМученический лавр наших братьев\nПышнее будет на ней расти.\nЭй! кто поляк, в штыки!\nВеди, поляк, начатый бой,\nПроиграть должен надменный царь,\nПокажи ему перстень святой,\nДар неустрашимых полек;\nПусть этот знак дорогих обетов\nВрагам нашим накликает гроб,\nПусть, залитый кровью в суровых боях,\nСкрепит наш союз со свободой.\nЭй, кто поляк, в штыки!\nО французы! Или вы не цените\nНаши раны ради вас?\nПод Маренго, Ваграмом, Йеной\nДрезденом, Лейпцигом, Ватерлоо?\nСвет вас предавал, мы выстояли:\nСмерть или триумф — где вы, там мы.\nБратья! Мы вам отдавали кровь,\nСегодня же вы нам — ничего, кроме слезы?\nЭй, кто поляк, в штыки!\nХотя бы вы, кто легли\nВ чужих краях за свой край,\nБратья наши, встали из могил,\nБлагословите братьев на бой!\nИли победим — или готовы\nВозвести преграду из наших трупов,\nЧтобы замедлить шаг исполину,\nЧто хочет нести миру оковы.\nЭй! кто поляк, в штыки!\nГремите, барабаны, ревите, орудия,\nДавай! дети, сплачивайте строй;\nВедут полки Вольность, Слава,\nТриумф сияет на остриях пик.\nЛети, наш орёл, в высоком полёте,\nСлаве, Польше, свету служи!\nКто выживет, вольным будет,\nКто умирает, вольный уже.\nЭй! кто поляк, в штыки!\nЖиви, свобода, Польша, живи!\nЭтим девизом побуждений благородных\nТруба наша, врагам греми!\nТруба наша, врагам греми!"
+  },
+  {
+    "answer": "Klemens Augustyn Kordecki  – przeor zakonu Paulinów i dowódca obrony klasztoru podczas oblężenia Jasnej Góry w czasie potopu szwedzkiego.\nPodczas potopu szwedzkiego (w 1655 roku) za cel postawił sobie uchronienie Jasnej Góry przed rabunkami i dewastacją ze strony wojsk szwedzkich. W tym celu ukrył obraz Matki Boskiej Częstochowskiej, a w kaplicy umieścił jego kopię. Wysłał do króla Karola X Gustawa list – przechowywany obecnie w archiwum w Sztokholmie, w którym zgadzał się poddać twierdzę w zamian za gwarancję nienaruszalności sanktuarium. Kiedy jej nie otrzymał, zdecydował się zbrojnie bronić Jasnej Góry. Dowodził obroną twierdzy jasnogórskiej przez cały okres oblężenia: od 18 listopada do 27 grudnia 1655 roku.\nDzieje oblężenia przedstawił w pamiętniku datowanym na 1655 roku, a na jego podstawie w 1658 roku napisał Nową Gigantomachię – beletrystyczny utwór o obronie częstochowskiego sanktuarium. Opis ten został wykorzystany w Potopie przez Henryka Sienkiewicza do stworzenia fabularyzowanego opisu obrony klasztoru.",
+    "rus_question": "С каким историческим событием связана фигура ксёндза Кордекего?",
+    "question": "Z jakim wydarzeniem historycznym kojarzy się postać ks. Kordeckiego?",
+    "id": 34,
+    "rus_answer": "Клеменс Августин Кордески- религиозный руководитель ордена Паулинов и командир обороны монастыря во время осады Ясной Горы во время нашествия шведов."
+  },
+  {
+    "answer": "Коротко:\nŚwięty Wojciech, właśc. Wojciech Sławnikowic (ur. ok. 956 w Libicach - zm. 23 kwietnia 997 w okolicach Elbląga lub Tękit – pierwszy polski święty, czeski duchowny katolicki, biskup Pragi, misjonarz, męczennik, uznawany przez Kościół katolicki za świętego.",
+    "rus_question": "Кто является польским покровителем?",
+    "answer_check": "wojciech,święty;sławnikowic",
+    "rus_answer": "Святой Войцех, ответственный. Войцех Славниковиц (родился около 956 в Либице, умер 23 апреля 997 в окрестностях Элблага или Тэкита – первый святой польский, чешский римско-католического епископа Праги, миссионер, мученик , признанного католической церковью как святой.\nПодробно:\nŚwięty Stanisław Kostka, zakonnik patron Polski\nStanisław urodził się 28 grudnia 1550 roku w Rostkowie na Mazowszu. Był synem Jana, kasztelana zakroczymskiego. Miał trzech braci i dwie siostry. Był bardzo wrażliwy. Dlatego ojciec w czasie przyjęć, kiedy musiał na nich bywać także Stanisław, napominał gości do umiaru w żartach, gdyż inaczej chłopiec może omdleć.\nW pierwszych miesiącach 1568 roku Stanisław złożył śluby zakonne. Miał wtedy zaledwie 18 lat. W prostocie serca w uroczystość św. Wawrzyńca (10 sierpnia) napisał list do Matki Bożej i schował go na swojej piersi. Przyjmując tego dnia Komunię świętą, prosił św. Wawrzyńca, aby uprosił mu u Boga łaskę śmierci w święto Wniebowzięcia. Prośba została wysłuchana. Wieczorem tego samego dnia poczuł się bardzo źle. 13 sierpnia gorączka nagle wzrosła. Przeniesiono go do infirmerii. 14 sierpnia męczyły Stanisława mdłości. Wystąpił zimny pot i dreszcze, z ust popłynęła krew. Była późna noc, kiedy zaopatrzono go na drogę do wieczności. Prosił, aby go położono na ziemi. Prośbę jego spełniono. Przepraszał wszystkich. Kiedy mu dano do ręki różaniec, ucałował go i wyszeptał: \"To jest własność Najświętszej Matki\".\nZapytany, czy nie ma jakiegoś niepokoju, odparł: że nie, bo ma ufność w miłosierdziu Bożym i zgadza się najzupełniej z wolą Bożą. Nagle w pewnej chwili, jak zeznał naoczny świadek, kiedy Stanisław modlił się, twarz jego zajaśniała tajemniczym blaskiem. Kiedy ktoś zbliżył się do niego, by zapytać, czy czegoś nie potrzebuje, odparł, że widzi Matkę Bożą z orszakiem świętych dziewic, które po niego przychodzą. Po północy 15 sierpnia 1568 roku przeszedł do wieczności. Kiedy podano mu obrazek Matki Bożej, a on nie zareagował na to uśmiechem, przekonano się, że cieszy się już oglądaniem Najświętszej Maryi Panny w niebie.\nJego kult zrodził się natychmiast i spontanicznie. Wieść o śmierci świętego Polaka rozeszła się szybko po Rzymie. W dwa lata po śmierci, kiedy otwarto grób, znaleziono ciało nienaruszone.\nProces kanoniczny trwał jednak długo. Uroczystości beatyfikacyjne odbyły się najpierw w Rzymie w domu św. Andrzeja, a potem w Polsce. Był to pierwszy błogosławiony Towarzystwa Jezusowego. W roku 1674 papież Klemens X ogłosił bł. Stanisława jednym z głównych patronów Korony Polskiej i Wielkiego Księstwa Litwy.  Jan XXIII uznał św. Stanisława szczególnym patronem młodzieży polskiej.",
+    "question": "Kto jest patronem Polski?",
+    "id": 35
+  },
+  {
+    "answer": "Wojciech urodził się w Lubicach, w Czechach, ok 956 roku W Polsce Bolesław Chrobry z radością przyjął w 997 roku biskupa, o którym wcześniej wiele dobrego słyszał od Sobibóra, któremu udzielił schronienia. Przyszły król dał Wojciechowi 30 wojów jako eskortę. U boku biskupa do Gdańska popłynęli Radzim - Gaudenty i subdiakon Benedykt Bogusza, który znał język pruski i mógł służyć za tłumacza. W Gdańsku przez kilka dni głosił Ewangelią tamtejszym Prusom. Następnie, odsyłając eskortę, udał się do Prus. Tam spotkała go śmierć męczeńska z rąk bezbożnych podczas odprawiania Mszy Św. Otoczyli go poganie, a pierwszy cios zadał świętemu pogański kapłan. Następnie przebito go 6 włóczniami, a głowę odcięto i wbito na żerdź. Umierając za wiarę 23 kwietnia 997 roku Wojiech miał 41 lat.\nJego ciało wykupił Bolesław Chrobry za tyle złota ile ważyło. Relikwie uroczyście przeniesono do Gniezna. Powiadomiony o śmierci przyjaciela Otton III natychmiast posłał do Papieża list z tą straszną wieścią i prośbą o kanonizację. Było to pierwsze wyniesienie na ołtarze przez Papieża, bowiem do tego czasu świetych ogłaszali miejscowi biskupi. Kanonizacja nastąpiła przed 999 roku na podstawie żywotu spisanego na podstawie wiedzy naocznych świadków. Dokonał jej Sylwester II, który utworzył metropolię św. Wojciecha w Gnieźnie.\nW 1000 roku Otton III odbył pielgrzymkę do grobu świętego. Odbył się wtedy zjazd gnieźnieński, podczas którego ogłoszono utworzenie Metropolii Gnieźnieńskiej z podległymi Biskupstwami: we Wrocławiu, w Krakowie i Kołobrzegu. Cesarz opuścił Gniezno z relikwią ramienia świętego. Jej części zostały umieszczone w Akwizgranie i w Rzymie.\nKult świętego szybko rozszerzył się na wiele krajów Europy. Św. Wojciech to główny patron Polski, kilku miast i diecezji. W ikonografii przedstawia się go w stroju biskupim, w paliuszu, z pastorałem. Jego atrybuty to także orzeł, wiosło oraz włócznie, od których zginął.",
+    "rus_question": "Где и как умер Святой Войцех?",
+    "question": "Gdzie i jak zginął Św. Wojciech?",
+    "id": 36,
+    "rus_answer": "Адальберт Пражский (он же Войтех или Войцех) — чешский епископ и католический святой.\n23 апреля 997 года он встретил свою смерть от рук прусских язычников неподалеку от нынешнего Калининграда. Вскоре после гибели епископа его останки были выкуплены Болеславом Храбрым, причем вес выплаченного золота равнялся весу мощей великомученика, и положены в соборе в Гнезно. Уже спустя два года после своей смерти Войтех был канонизирован папой Сильвестром II."
+  },
+  {
+    "answer": "Krolowa Jadwiga Andegaweńska (1374-1399). Córka Ludwika Węgierskiego. W 1384 roku możnowładcy polscy zażądali jej przybycia do Polski z Węgier i w tym roku została koronowana. Panowie małopolscy dążyli do zerwania narzeczeństwa Jadwigi z Wilhelmem Habsburgiem, gdyż myśleli o związku dynastycznym z Litwą w celu umocnienia obu krajów zagrożonych stałą ekspansją Krzyżaków. Na podstawie umowy zawartej w Krewie w 1385 roku, wielki książę litewski Władysław Jagiełło przyjął wraz z braćmi i całą Litwą chrześcijaństwo w obrządku łacińskim I poślubił Jadwigę. Gotowość do podporządkowania swego życia realizacji celów państwowych przyczyniła się do wielkiej sympatii i szacunku, jakim cieszyła się ta królowa. Jadwiga odnowiła Akademię Krakowską i na jej rzecz zapisała swój majątek osobisty.",
+    "rus_question": "Кем была Святая Ядвига?",
+    "question": "Kim była Święta Jadwiga?",
+    "id": 37,
+    "rus_answer": "Королевы Ядвиги Анжуйский (1374-1399). Дочь Людовика Венгрии. В 1384 году,\nПольские магнаты требовали своего прибытия на польском и венгерском был коронован в этом году. Мальчики тенденцию сломать Малопольского Хедвиг ухаживания Уильяма Габсбургов, потому что они думали, что династические связи с Литвой в целях укрепления двух стран угрожает постоянное расширение тевтонских рыцарей. На основании соглашения, заключенного в 1385 Кревской, великого князя литовского Владислава Ягайло приняты и братья его и весь Литвы в латинском обряде христианство и женился на Хедвиг. Готовность подчинять свои жизненные цели государство способствовало большой любовью и уважением, в котором королева наслаждался этим. Ядвига вновь Краковской академии и записали ее для вашей личной собственностью."
+  },
+  {
+    "answer": "Zjazd odbył się między 7 a 15 marca 1000 roku w Gnieźnie. Do grobu św. Wojciecha przybył cesarz Świętego Cesarstwa Rzymskiego Otton 3, zwany też Ottonem Rudym. Po modlitwie w katedrze spotkał się z księciem Bolesławem. Podczas zjazdu Otton nałożył na jego głowę diadem i wręczył kopię Włóczni św. Maurycego. W zamian cesarz otrzymał od księcia część relikwii św. Wojciecha. Bolesław przychylił się do planów cesarza o Wielkim Cesarstwie. Najdonioślejszym efektem zjazdu było utworzenie Metropolii gnieźnieńskiej – pierwszej metropolii kościelnej w Polsce podległej wyłącznie papieżowi, na czele której postawiono brata św. Wojciecha Radzima Gaudentego. Wraz z powstaniem nowej metropolii utworzono podległe Gnieznu nowe biskupstwa-sufraganie w Krakowie z biskupem Popponem, w Kołobrzegu z biskupem Reinbernem, Wrocławiu z biskupem Janem. Biskupstwo w Poznaniu pozostało poza metropolią gnieźnieńską aż do śmierci biskupa Ungera.\nZjazd z pewnością przyczynił się do umocnienia pozycji Bolesława wobec władców państw sąsiadujących z Polską. Tradycję Synodu gnieźnieńskiego (w jego wymiarze kościelnym i europejskim) podtrzymuje w naszych czasach abp Henryk Muszyński, metropolita gnieźnieński i prymas Polski. Organizuje on od 1997 roku kolejne Zjazdy gnieźnieńskie podnoszące i upamiętniające prestiż oraz wagę Gniezna w całej Europie. Celem tego spotkania było pozyskanie przez cesarza przychylności i poparcia księcia do utworzenia uniwersalistycznego cesarstwa zachodniego, na które miały złożyć się prowincje(każda z królem, podlegającym cesarzowi) Galię, Italię, Germanię, Słowiańszczyznę.",
+    "rus_question": "Где и когда состоялся гнезненский конгресс?",
+    "question": "Gdzie i kiedy odbył się zjazd gnieźnieński?",
+    "id": 38,
+    "rus_answer": "Конгресс состоялся в период с 7 по 15 марта 1000 в Гнезно. К могиле святого Войцех прибыл император Священной Римской империи Оттон 3, также известный как Отто Руди. После молитвы в соборе встретился с князем Болеславом. Когда Конгресс, введенные Отто тиарой на голове и дал копию Святого Копья. Морис. В свою очередь, император получил от некоторых мощей святого князя. Адальберт. Болеслав присоединилась к планам императора Великой Империи. Выполнять не более важным результатом стало создание Metropolis Конгресс Гнезно - первая столица Церкви в Польше, подчиняются только папе, во главе с его братом возведен Санкт-Войцех Radzym Gaudentius. С созданием новых городов, созданных подчиненными Гнезно новый викарный архиерей епископ-в Кракове Popponem в Колобжег с епископом Reinbern, Вроцлав с епископом Иоанном. Епископство в Познани, Гнезно столица осталась вне до смерти епископа Унгер.\nКонгресс, безусловно, внесла свой вклад в укрепление позиций Болеслава против правителей соседних стран с польской.Традиция Синода Гнезно (в его церковь и европейское измерение) поддерживает в наше время, архиепископа Хенрика Muszynski, предстоятель архиепископ Гнезно и польском языках. Он организует с 1997 года следующего Гнезно конгрессов и посвященных повышению престижа и значимости Гнезно в Европе. Целью этой встречи было получить пользу императора и герцога поддержку создания универсальных Западной империи, которое было представлено в провинции (каждая с царем, в соответствии с императором) Галлии, Италии, Германии, славянских."
+  },
+  {
+    "answer": "Upragniona koronacja nastąpiła w ostatnim roku jego życia w 1025.",
+    "rus_question": "Когда короновали Болеслава Чорнэго?",
+    "question": "Kiedy koronowano Bolesława Chrobrego?",
+    "id": 39,
+    "rus_answer": "Коронация состоялась в последний год его жизни в 1025 году."
+  },
+  {
+    "answer": "Polskie insygnia koronacyjne, regalia królów polskich – oznaki władzy, godności i stanu królewskiego królów polskich używane podczas ceremonii koronacyjnych. Były nimi: korona, jabłko, berło, Miecz Szczerbiec (wyszczerbiony na Bramie Kijowskiej)",
+    "rus_question": "Самые знаменитые королевские драгоценности  известных польских королей",
+    "question": "Wymień najsłynniejszą  insygnie koronacyjną królów Polski?",
+    "id": 40,
+    "rus_answer": "Польские драгоценности короны, регалии королей Польский - знаки власти, достоинства и король польских королей использоваться во время коронации. В их числе: корона, держава, скипетр, меч Шчербец (сколы на ворота Киев)"
+  },
+  {
+    "answer": "1226 Konrad Mazowiecki sprowadza do Polski Zakon Krzyżacki. Początkowo mają oni pomóc w podbiciu pogańskich Prusów. Z czasem Krzyżacy rosną w potęgę, ich obecność w kraju zaczyna zagrażać bezpieczeństwu Polski.",
+    "rus_question": "Кто встречался с польскими рыцарями?",
+    "question": "Kto sprowadził do Polski Krzyżaków?",
+    "id": 41,
+    "rus_answer": "Конрад Мазовецкий 1226 приходит к польским орденом тевтонских рыцарей. Первоначально, они помогают в освоении языческой Пруссии. Со временем рыцари растут силой, их присутствие в стране становится угрозой для польской безопасности"
+  },
+  {
+    "answer": "Krol Kazimierz Wielki (1310-1370) założył w Krakowie w 1364 r. pierwszy w Polsce uniwersytet - Akademię Krakowską.",
+    "rus_question": "Uniwersytet Jagielloński",
+    "question": "Kto i kiedy założył akademię",
+    "id": 42,
+    "rus_answer": "Король Казимир Великий (1310-1370) основал в Кракове в 1364 году, первый университет в Польше - Краков академии."
+  },
+  {
+    "answer": "1 sierpnia 1944 roku o godzinie w 17.00 Powstanie warszawskie było wystąpieniem zbrojnym w okupowanej przez wojska niemieckie Warszawie zorganizowanym przez Armię Krajową, połączonym z ujawnieniem się i oficjalną działalnością najwyższych struktur Polskiego Państwa Podziemnego. Od strony militarnej powstanie było wymierzone przeciwko Niemcom, jednak jego głównym celem była próba ratowania powojennej suwerenności, a być może także niepodległości Polski, poprzez odtworzenie w stolicy Polski legalnych władz państwowych będących naturalną kontynuacją władz przedwojennych, co miało uniemożliwić narzucenie Polsce marionetkowych władz uzależnionych od Związku Radzieckiego, którego wojska właśnie zbliżały się do Warszawy. Walki trwały 63 dni. W czasie walk zburzonych zostało ok. 25% zabudowy miasta (pod koniec wojny ok. 85% miasta leżało w gruzach).",
+    "rus_question": "Когда вспыхнуло Варшавское Восстание?",
+    "question": "Kiedy wybuchło Powstanie Warszawskie?",
+    "id": 43,
+    "rus_answer": "1 августа 1944 года, в 17.00 часов Варшавское восстание было вооруженное восстание в немецкой армии заняли Варшаву организованный армией, в сочетании с открытой и официальной деятельности высших структурах польского подземного государства. С военной восстание было направлено против Германии, но его основной целью было попытаться спасти послевоенные суверенитета, а также, возможно независимости Польши, играя в польской столице правовых органов государственной власти как естественное продолжение довоенных правительство, которое должно было предотвратить введение польского марионеточного правительства зависимого общества Советский Союз, чьи войска подходили к Варшаве. Борьба длилась 63 дней. Уничтожено во время боевых действий было около 25% зданий города (в конце войны около 85% территории города лежали в руинах)."
+  },
+  {
+    "answer": "Wojciech Jaruzelski (1989–1990)\nLech Wałęsa, (1990 – 1995),\nAleksander Kwasniewski (1995-2005),\nLech Kaczynski (2005-2010) (ur. 18 czerwca 1949 w Warszawie , zm. 10 kwietnia 2010 w Smoleńsk u)\nBronislaw Komorowski (2010-)",
+    "rus_question": "Знаменитые имена президентов Республики Польша после 1989 года?",
+    "question": "Wymień nazwiska prezydentów RP po 1989 roku?",
+    "id": 44,
+    "rus_answer": "Войцех Ярузельский (1989 - 1990)\nЛех Валенса (1990 - 1995),\nАлександр Квасьневский (1995-2005),\nЛех Качиньский (2005-2010) (родился 18 июня 1949 года в Варшаве, умер. 10 апреля 2010 в Смоленске)\nБронислав Коморовский (2010 -…..)"
+  },
+  {
+    "answer": "O północy 13 grudnia 1981 roku wprowadzony został stan wojenny. Rano w państwowej telewizji pojawił się Wojciech Jaruzelski i ogłosił powołanie WRON. Solidarność została zdelegalizowana. Przywódców internowano i umieszczono w strzeżonych przez SB ośrodkach odosobnienia. Oddziały ZOMO pacyfikowały próbujące strajkować zakłady pracy. MSW zezwoliło na użycie broni i wkrótce (16 grudnia) padł rozkaz strzelania do górników w kopalni \"Wujek\". Zginęło 9 górników, a 21 zostało rannych. Następnego dnia ogień został otwarty podczas solidarnościowych protestów w Gdańsku. Zginęła jedna osoba, a dwie zostały ranne. Do 28 grudnia wszystkie strajki zostały rozbite.",
+    "rus_question": "Какое событие связано 13 декабря?",
+    "question": "Z jakim wydarzeniem kojarzy się 13 grudzień?",
+    "id": 45,
+    "rus_answer": "В полночь 13 декабря 1981 было введено военное положение. Утром, государственное телевидение появилось Войцех Ярузельский, и объявил о назначении wron. Солидарность была объявлена вне закона. Лидеры были интернированы и помещены в охраняемой СО содержания под стражей. Милиция войск умиротворенной пытался ударить рабочих мест. Министерство внутренних дел разрешило использовать оружие, и вскоре (16 декабря) упал шахтеров приказ стрелять на \"Wujek\". Девять горняков погибли и 21 получили ранения. На следующий день, был открыт огонь на протесты солидарности в Гданьске. Один человек погиб и двое получили ранения. До 28 декабря все удары были сломаны."
+  },
+  {
+    "answer": "Data przyjęcia Konstytucji. Sejm w Warszawie przyjął reformę Państwa, odrzucił  Liberum Veto.",
+    "rus_question": "Какое событие связано 3 мая 1791 года?",
+    "question": "Z jakim wydarzeniem kojarzy się 3 Maj 1791 roku?",
+    "id": 46,
+    "rus_answer": "День принятия конституции. Варшавский сейм принял реформу государства, отвергли Либерум Вето."
+  },
+  {
+    "answer": "Niezależny Samorządny Związek Zawodowy \"Solidarność\" – ogólnopolski związek zawodowy powstały w 1980 roku dla obrony praw pracowniczych, do 1989 również jeden z głównych ośrodków masowego ruchu oporu przeciw socjalistycznym rządom Polski Ludowej. Początkowo duże wpływy polityczne organizacji w III Rzeczypospolitej (np. Akcja Wyborcza Solidarność w latach 1997-2001) uległy następnie znacznemu osłabieniu.\n\n\"Solidarność\" powstała na bazie licznych komitetów strajkowych (w tym Międzyzakładowego Komitetu Strajkowego w Gdańsku), które z czasem przekształciły się w komisje założycielskie Niezależnego Samorządnego Związku Zawodowego \"Solidarność\". NSZZ \"Solidarność\" został zarejestrowany 10 listopada 1980 roku przez Sąd Okręgowy w Warszawie.\nTym razem PZPR nie zdecydowała się na użycie siły - negocjacje zakończyły się podpisaniem tzw. porozumień sierpniowych (31 VIII 1981) i powstaniem niezależnej organizacji związkowej - NSZZ \"Solidarność\", na której czele stanął robotnik z Gdańska, Lech Wałęsa. Edward Gierek został zmuszony do ustąpienia, a jego miejsce zajęli Stanisław Kania, a następnie od października 1981 roku gen. Wojciech Jaruzelski.",
+    "rus_question": "Год основания профсоюзов Солидарности?",
+    "question": "Rok założenia Związku Zawodowego Solidarność?",
+    "id": 47,
+    "rus_answer": ""
+  },
+  {
+    "answer": "Bitwa pod Wiedniem – bitwa stoczona 12 września 1683 roku między wojskami polsko-austriacko-niemieckimi, pod dowództwem Jana III Sobieskiego, a armią Imperium osmańskiego pod wodzą wezyra Kara Mustafy pod Wiedniem. Zakończyła się przegraną Turcji, która nie podniosła się już po tym uderzeniu i przestała stanowić zagrożenie dla chrześcijańskiej Europy.",
+    "rus_question": "Что вы знаете об осаде Вены?",
+    "question": "Co wiesz o odsieczy Wiednia?",
+    "id": 48,
+    "rus_answer": "Битва под Веной - сражение на 12 сентября 1683 между силами польско-австрийско-немецких, под командованием Яна III Собеского и османской армии под руководством визиря Кара-Мустафы в Вене. Закончилась поражением Турции, которая не поднималась после хита и больше не представляет угрозу для христианской Европы."
+  },
+  {
+    "answer": "Wielkopolska, Malopolska, Pomorze, Warmia i Mazury, Podlasie, Slask (Gorny i Dolny)",
+    "rus_question": "Знаменитые географические края Польши",
+    "question": "Wymień krainy geograficzne Polski",
+    "id": 49,
+    "rus_answer": "Велкополска, Малопольска, Поможе, Варма и Мажуры, Подляске, Слоск (верхний и нижний)"
+  }
+]
