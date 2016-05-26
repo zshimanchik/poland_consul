@@ -10,6 +10,9 @@ import telebot
 import logging
 
 import settings
+from bot import ConsulBot
+import json
+import redis
 
 # settings example:
 # API_TOKEN = '<api_token>'
@@ -34,7 +37,7 @@ import settings
 
 
 logger = telebot.logger
-telebot.logger.setLevel(logging.INFO)
+telebot.logger.setLevel(logging.DEBUG)
 
 bot = telebot.TeleBot(settings.API_TOKEN)
 
@@ -68,6 +71,9 @@ class WebhookHandler(http.server.BaseHTTPRequestHandler):
             self.send_error(403)
             self.end_headers()
 
+r = redis.Redis()
+questions = json.load(open('questions.json', 'r', encoding='utf8'))
+consul_bot = ConsulBot(r, questions, bot)
 
 # Handle '/start' and '/help'
 @bot.message_handler(commands=['help', 'start'])
@@ -80,7 +86,13 @@ def send_welcome(message):
 # Handle all other messages
 @bot.message_handler(func=lambda message: True, content_types=['text'])
 def echo_message(message):
-    bot.reply_to(message, message.text)
+    try:
+        consul_bot.handle(message.text, message.chat.id)
+    except Exception as e:
+        logger.exception(e)
+        #print(ex)
+    #print(message.chat.id)
+    #bot.send_message(message.chat.id, message.text)
 
 
 # Remove webhook, it fails sometimes the set if there is a previous webhook
